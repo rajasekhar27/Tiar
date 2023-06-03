@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ramtejajakka.tiar.app.twa",
+      "sha256_cert_fingerprints": [
+        "48:E5:16:77:E8:F7:BD:FB:B5:C5:89:18:07:A5:D1:73:CE:86:AF:86:CA:D7:E2:98:FE:00:58:3F:6B:BE:71:E4"
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+export const buyNftData = [
+  {
+    id: 1,
+    img: "https://d3jlwjv6gmyigl.cloudfront.net/images/2021/03/crypto-art.jpg",
+    title: "Life is Vicious Void",
+    creatorName: "Creator Name",
+    crypto: "1 ETH",
+    currency: "$7800",
+  },
+  {
+    id: 2,
+    img: "https://images.squarespace-cdn.com/content/v1/59413d96e6f2e1c6837c7ecd/1532209459746-GYJGMHHBB5929NK2SB0H/Romero.jpg",
+    title: "To the Moon",
+    creatorName: "Creator Name",
+    crypto: "6 ETH",
+    currency: "$7800",
+  },
+  {
+    id: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNwrYkJEEjup698y0qYZcays7ZLjmTFNexskLXND99M7fMxYxxLUm_01iH2RqwAR1QkA&usqp=CAU",
+    title: "Stare at Me",
+    creatorName: "Creator Name",
+    crypto: "3 ETH",
+    currency: "$7800",
+  },
+  {
+    id: 4,
+    img: "https://dailyhodl.com/wp-content/uploads/2020/03/unprecedented-action.jpg?w=810",
+    title: "Key to Universe",
+    creatorName: "Creator Name",
+    crypto: "4 ETH",
+    currency: "$7800",
+  },
+  {
+    id: 5,
+    img: "https://imageio.forbes.com/blogs-images/rachelwolfson/files/2019/01/Fork-and-flip.jpg?format=jpg&width=960",
+    title: "Volatile Market",
+    creatorName: "Creator Name",
+    crypto: "5 ETH",
+    currency: "$7800",
+  },
+];
+
+export const tokenData = [
+  {
+    id: 1,
+    coin_img: "/images/crypto_coin_logos/bitcoin.svg",
+    coin_name: "Bitcoin",
+    price: "$7800",
+    gainOrLoss: "+25.6%",
+    conversion: "BTC/USD",
+  },
+  {
+    id: 2,
+    coin_img: "/images/crypto_coin_logos/ethereum.svg",
+    coin_name: "Ethereum",
+    price: "$23300",
+    gainOrLoss: "+9.2%",
+    conversion: "ETH/USD",
+  },
+  {
+    id: 3,
+    coin_img: "/images/crypto_coin_logos/polygon-matic.svg",
+    coin_name: "Polygon",
+    price: "$7800",
+    gainOrLoss: "-3.2%",
+    conversion: "MATIC/USD",
+  },
+  {
+    id: 4,
+    coin_img: "/images/crypto_coin_logos/binance.svg",
+    coin_name: "Binance",
+    price: "$321",
+    gainOrLoss: "+12.6%",
+    conversion: "BNB/USD",
+  },
+];
